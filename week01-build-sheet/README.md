@@ -18,7 +18,7 @@ Step 4: Screenshots showing both accounts exist and that the test account is set
 Step 5: A screenshot of the terminal output and I included inventory.txt in my submission folder.
 Step 6: A screenshot of the snapshot manager showing the snapshot name and timestamp.
 
-AI Disclosure: I did not use Ai for this assignment
+AI Disclosure: I did not use AI for this assignment
 
 Portfolio Card: I built and documented a Windows 11 VM baseline, so when troubleshooting you have a clean state that is known to be good.
 
