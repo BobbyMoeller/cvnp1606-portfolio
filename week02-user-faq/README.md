@@ -1,9 +1,16 @@
 Bobby Moeller
+
 Matt M
 
 CVNP1606
 
 9/6/2026
+
+AI Disclaimer: Did not use AI in this senerio
+
+In this scenario I am a junior support analyst at Nexus Support Services. ACME users are adjusting to a Windows 11 refresh and are opening tickets because common settings feel hard to find. My lead asks you to create a short user FAQ that explains common tasks clearly, proves the instructions were tested, and models professional support communication.
+
+The first step was to restore the Windows 11 Baseline I made in Week 1. Then I wrote the five FAQs you can see below. They need a User Goal, Tool Path, Steps, Evidence, and How to Escalate. Then I wrote 3 support notes as seen on support-note-examples.md, one note for a resolved user navigation issue, one note for an issue that needs escalation or approval, and one note rewriting a vague or unprofessional response into a clear support response. Then I validated my FAQ that has the system used, the tool path, and the evidence file names. This can be seen in the file validated-steps.md. 
 
 FAQs:
 
@@ -119,3 +126,4 @@ FAQ_5_Task_Manager_Startup_Screenshot
 When to escalate:
 If a startup application is not visible in Task Manager but the app still launches, escalate to a senior technician.
 
+Portfolio Card: I created a verified Windows 11 support FAQ that can help users find settings and gives technicians  steps for resolving tickets based on navigation.
