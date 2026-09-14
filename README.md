@@ -16,6 +16,7 @@ portal screenshots, logs) — not writeups about work, the work itself.
 |------|--------|-------------|
 | 01 | [Build sheet](week01-build-sheet/) | Windows 11 build + evidence-backed baseline |
 | 02 | [User FAQ](week02-user-faq/) | Validated user-facing documentation |
+| 03 | [Account Audit](week03-account-audit/)| Created and audited local user accounts |
 | ... | (add a row as each week lands) | |
 
 Built with disclosed, verified AI assistance per the AI Technician's Code
