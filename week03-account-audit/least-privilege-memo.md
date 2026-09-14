@@ -41,3 +41,6 @@ Not Granted: Local admin access was not granted because the role requires no sof
 
 Expires: 1/15/2027 for review and determination on current privileges. If elevated access is needed before then, then please submit a request to an IT manager for review and approval.
 
+
+If a user need an exemption to their user access for any reason, please make them provide evidence why like exact error messages, Windows Event Viewer screenshots, PowerShell errors, etc. and their reason of why they need elevated access and for how long. Admin access should only be justified when its absolutly needed for daily function or temp access to fix something or to something that needs those privileges to function. If you are not sure or it is a high-impact system, please escalate to your manager.
+
