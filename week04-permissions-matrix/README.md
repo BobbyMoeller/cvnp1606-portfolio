@@ -25,7 +25,7 @@ Step 4: Screenshots of each test outcome taken while signed in as hr-staff-test 
 Portfolio Card: I built a secure HR folder share at ACME, assigned group-based NTFS and share permissions, tested effective access from a test account, and documented the permission model so it can be verifiable.
 
 
-Troubleshooting Narrative
+Troubleshooting Narrative:
 
 What went wrong, or what could realistically have gone wrong? -
 When I created the HR Test account, I could not find it on the sign in screen.
