@@ -10,21 +10,21 @@ Change Security Settings: Denied, was not able to change admins privileges
 Permissions Matrix Table:
 
 HR-Managers
-NTFS: Full Control
-Share: Full Control
-Network Access: Full Control
+NTFS: Full Control |
+Share: Full Control |
+Network Access: Full Control |
 Test Result: Validated
 
 HR-Staff
-NTFS: Modify (Read, Write, Execute, Delete)
-Share: Change
-Network Access: Change / Modify
+NTFS: Modify (Read, Write, Execute, Delete) |
+Share: Change |
+Network Access: Change / Modify |
 Test Result: Tested account; it can create, edit, and delete files; cannot modify secuity settings
 
 Audit-Readonly
-NTFS: Read & Execute
-Share: Read
-Network Access: Read
+NTFS: Read & Execute |
+Share: Read |
+Network Access: Read |
 Test Result: Validated
 
 
