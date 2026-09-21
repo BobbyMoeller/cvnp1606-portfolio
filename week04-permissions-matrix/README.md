@@ -24,28 +24,23 @@ Step 4: Screenshots of each test outcome taken while signed in as hr-staff-test 
 
 Portfolio Card: I built a secure HR folder share at ACME, assigned group-based NTFS and share permissions, tested effective access from a test account, and documented the permission model so it can be verifiable.
 
+
 Troubleshooting Narrative
 
-What went wrong, or what could realistically have gone wrong? 
-
+What went wrong, or what could realistically have gone wrong? -
 When I created the HR Test account, I could not find it on the sign in screen.
 
-What evidence did you check first?
-
+What evidence did you check first? -
 I made sure it was a user in computer management
 
-What did you try?
-
+What did you try? -
 I added it to the user group
 
-What fixed it, or what would you try next?
-
+What fixed it, or what would you try next? -
 Adding it to the user group fixed it
 
-How did you verify the result?
-
+How did you verify the result? -
 By being able to see the account on the login screen
 
-What was the support or security impact of the issue or fix?
-
+What was the support or security impact of the issue or fix? -
 Support impact could be it generating support tickets. No security impact
