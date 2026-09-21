@@ -15,8 +15,11 @@ The first step to do on my Windows 11 baseline is to create the three local grou
 Evidence List: 
 
 Step 1: Screenshot of Get-LocalGroup output showing all three groups, and confirming hr-staff-test appears in HR-Staff but not in Administrators.
+
 Step 2: acl-before.txt and a screenshot of Get-SmbShareAccess output confirming Everyone is not listed.
+
 Step 3: Terminal screenshot of icacls output and Get-SmbShareAccess showing all three groups with correct permission levels. Also acl-after.txt
+
 Step 4: Screenshots of each test outcome taken while signed in as hr-staff-test and access-test-results.md with all four test results recorded.
 
 Portfolio Card: I built a secure HR folder share at ACME, assigned group-based NTFS and share permissions, tested effective access from a test account, and documented the permission model so it can be verifiable.
@@ -24,8 +27,25 @@ Portfolio Card: I built a secure HR folder share at ACME, assigned group-based N
 Troubleshooting Narrative
 
 What went wrong, or what could realistically have gone wrong? 
+
+When I created the HR Test account, I could not find it on the sign in screen.
+
 What evidence did you check first?
+
+I made sure it was a user in computer management
+
 What did you try?
+
+I added it to the user group
+
 What fixed it, or what would you try next?
+
+Adding it to the user group fixed it
+
 How did you verify the result?
+
+By being able to see the account on the login screen
+
 What was the support or security impact of the issue or fix?
+
+Support impact could be it generating support tickets. No security impact
