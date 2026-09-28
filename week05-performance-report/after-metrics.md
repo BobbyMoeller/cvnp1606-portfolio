@@ -22,4 +22,4 @@ Evidence:
 
 ![Resource Monitor](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/6bb1a5483990e80ae8014a18d79827c53771478b/week05-performance-report/Screenshots/Step_6_Resource_Monitor.png)
 
-![Task Manager](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/6bb1a5483990e80ae8014a18d79827c53771478b/week05-performance-report/Screenshots/Step_6_Resource_Monitor.png)
+![Task Manager](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/167e951898d99839faedbf787b0e6f0df50b8d5b/week05-performance-report/Screenshots/Step_6_After_Task_Manager_Cont.png)
