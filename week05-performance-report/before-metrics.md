@@ -30,3 +30,4 @@ Evidence:
 
 ![Task Manager](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/54168d277c971580b56bc6abb7ce93992d0fbc07/week05-performance-report/Screenshots/Step_1_Task_Manager.png)
 
+![Resource Manager](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/11e60a30aecbcc80f41edea22d7464f75d26ed4c/week05-performance-report/Screenshots/Step_2_Resource_Monitor.png)
