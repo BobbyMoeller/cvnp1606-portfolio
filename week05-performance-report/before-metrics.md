@@ -24,9 +24,9 @@ My hypothesis is that the CPU is causing the computer to slow down because, of i
 
 Evidence: 
 
-![PowerShell Before](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/54168d277c971580b56bc6abb7ce93992d0fbc07/week05-performance-report/Screenshots/Step_1_Task_Manager.png)
+![PowerShell Before](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/0c6eadea4f8b2c9431074cd2d71e5cb77dece590/week05-performance-report/Screenshots/Step_1_PowerShell_Before.png)
 
-![Startup Apps](week05-performance-report/Screenshots/Step_1_Startup_Apps.png)
+![Startup Apps](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/0c6eadea4f8b2c9431074cd2d71e5cb77dece590/week05-performance-report/Screenshots/Step_1_Startup_Apps.png)
 
-![Task Manager](week05-performance-report/Screenshots/Step_1_Task_Manager.png)
+![Task Manager](https://github.com/BobbyMoeller/cvnp1606-portfolio/blob/54168d277c971580b56bc6abb7ce93992d0fbc07/week05-performance-report/Screenshots/Step_1_Task_Manager.png)
 
