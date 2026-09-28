@@ -15,7 +15,7 @@ In this scenario, I am a junior technician at Nexus Support Services. Riley Chen
 The first step of this scenario was to restore my Windows 11 baseline. Then I used this PowerShell script to simulate startup congestion, 1..4 | ForEach-Object { Start-Job -ScriptBlock { while ($true) { $x = 1..1000 | Measure-Object -Sum } } } Then I let it run for 5 mins to let the computer reach a slow state. Then using a combination of Task Manager, PowerShell, and with step 2, resource manager, get the metric before I try to remedy the situation. Then for step 3, we saw if any startup apps were causing problems but since the PowerShell script did not make a startup app there were no startup app that were causing a problem. Then for step 4, I found the bottleneck, which was the CPU, and formed a hypothesis. Then for step 5, I applied a remedy, which was closing the PowerShell processes and document what I did like I did in Step 1 for the final step, 6.
 
 
-Evidence: A group of screenshot that are labeled for each step. They can be found in the [Screenshot Folder](week05-performance-report/Screenshots)
+Evidence: A group of screenshot that are labeled for each step. They can be found in the [Screenshot Folder](https://github.com/BobbyMoeller/cvnp1606-portfolio/tree/b3fe8d0ef627125d2f1fba492e420d01c847ccbb/week05-performance-report/Screenshots)
 
 
 Portfolio Card: I diagnosed a slow Windows endpoint using Task Manager, Resource Monitor, and PowerShell evidence, identified a startup congestion bottleneck, applied a remediation the would be safe for the user, and documented the before and after state for a simulated branch manager's meeting workstation.
