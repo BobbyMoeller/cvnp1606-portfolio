@@ -12,8 +12,8 @@ The first step of this lab was to load up my clean Windows 11 snapshot. Then I o
 
 Evidence: A group of screenshot that are labeled for each step. They can be found in the Screenshot Folder
 
-Root-Cause Explanation: The root cause of Emily's connectivity issue is an *internal DNS resolution failure caused by an unconfigured or external DNS server. 
+Root-Cause Explanation: The root cause of Emily's connectivity issue is an internal DNS resolution failure caused by an unconfigured or external DNS server. 
 
-While the physical connection, local IP configuration, and default gateway routing are fully functional, shown by the ping 8.8.8.8 evidence. The diagnostic command nslookup acme.internal failed with: Unknown can't find acme.internal: Non-existent domain. This proves that the workstation is trying to query a public or unmapped DNS server that has no record of acme.internal. Also running Test-NetConnection -ComputerName 8.8.8.8 -Port 80 failed with TcpTestSucceeded : False, showing that connectivity to specific ports must be verified beyond basic ICMP ping.
+While the physical connection, local IP configuration, and default gateway routing are working as inteded, shown by the ping 8.8.8.8 evidence. The diagnostic command nslookup acme.internal failed with: Unknown can't find acme.internal: Non-existent domain. This proves that the workstation is trying to query a public or unmapped DNS server that has no record of acme.internal. Also running Test-NetConnection -ComputerName 8.8.8.8 -Port 80 failed with TcpTestSucceeded : False, showing that connectivity to specific ports must be verified beyond basic ICMP ping.
 
 Portfolio Card: I isolated a Windows connectivity issue across IP, DNS, and gateway checks, then turned the technical worded fix into instructions a remote user could follow without IT knowledge.
