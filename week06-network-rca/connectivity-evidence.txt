@@ -1,0 +1,55 @@
+﻿
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : CVNP1606-LAB
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-0C-29-AF-DE-17
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::899a:baa1:4831:85e7%14(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.208.128(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, October 5, 2026 8:56:40 PM
+   Lease Expires . . . . . . . . . . : Monday, October 5, 2026 9:26:41 PM
+   Default Gateway . . . . . . . . . : 192.168.208.2
+   DHCP Server . . . . . . . . . . . : 192.168.208.254
+   DHCPv6 IAID . . . . . . . . . . . : 100666409
+   DHCPv6 Client DUID. . . . . . . . : 00-01-01-00-32-26-B6-04-00-0C-29-AF-DE-17
+   DNS Servers . . . . . . . . . . . : 192.168.208.2
+   Primary WINS Server . . . . . . . : 192.168.208.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=29ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=23ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=36ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=28ms TTL=128
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 23ms, Maximum = 36ms, Average = 29ms
+Server:  UnKnown
+Address:  192.168.208.2
+
+
+
+ComputerName           : 8.8.8.8
+RemoteAddress          : 8.8.8.8
+RemotePort             : 80
+InterfaceAlias         : Ethernet0
+SourceAddress          : 192.168.208.128
+PingSucceeded          : True
+PingReplyDetails (RTT) : 31 ms
+TcpTestSucceeded       : False
+
+
+
