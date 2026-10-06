@@ -14,9 +14,8 @@ Step 2: Restart your network connection
 * If you are using a network cable plugged into your laptop, Unplug the cable, wait about 10 seconds, and plug it back in.
 * Restart your laptop.
 
-When to stop and contact the Helpdesk
 
-
+When to stop and contact the Helpdesk:
 
 Please contact the ACME Helpdesk if you experience any of the following:
 
