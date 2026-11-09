@@ -1,0 +1,108 @@
+=== CVNP1606-W09 Evidence Report (Midterm) ===
+Generated : 2026-11-08 23:06:07
+Host      : DESKTOP-486IIBM
+
+[TICKET A — ACCOUNT STATE]
+  Administrator                Enabled: False  LockedOut: 
+  Bobby's Desktop              Enabled: True  LockedOut: 
+  DefaultAccount               Enabled: False  LockedOut: 
+  Guest                        Enabled: False  LockedOut: 
+  WDAGUtilityAccount           Enabled: False  LockedOut: 
+
+[TICKET B — TOP PROCESSES (CPU)]
+  audiodg                      CPU: 5363.9s   WS: 33 MB
+  System                       CPU: 4774.6s   WS: 0.2 MB
+  Corsair.Service              CPU: 1789.4s   WS: 43.9 MB
+  msedge                       CPU: 1407.6s   WS: 1455.5 MB
+  MsMpEng                      CPU: 1273.6s   WS: 244.3 MB
+  Elgato.WaveLink              CPU: 406s   WS: 484.2 MB
+  SearchIndexer                CPU: 395.4s   WS: 44.7 MB
+  TiWorker                     CPU: 313s   WS: 37.5 MB
+
+[TICKET C — PNP DEVICE STATUS]
+  Status: Unknown      Class: HIDClass             Name: HID-compliant system controller
+  Status: Unknown      Class: HIDClass             Name: HID-compliant consumer control device
+  Status: Unknown      Class: AudioEndpoint        Name: Browser (Elgato Virtual Audio)
+  Status: Unknown      Class: AudioEndpoint        Name: Wave Mic 2 (Elgato Virtual Audio)
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: AudioEndpoint        Name: Wave Mic 4 (Elgato Virtual Audio)
+  Status: Unknown      Class: Keyboard             Name: HID Keyboard Device
+  Status: Degraded     Class: SoftwareDevice       Name: PawnIO
+  Status: Unknown      Class: SoftwareDevice       Name: Bobby's Tab S11 Ultra
+  Status: Unknown      Class: Monitor              Name: Generic Monitor (LS27D36xG)
+  Status: Unknown      Class: USB                  Name: USB Mass Storage Device
+  Status: Unknown      Class: AudioEndpoint        Name: Music (Elgato Virtual Audio)
+  Status: Unknown      Class: Modem                Name: SAMSUNG Mobile USB Modem
+  Status: Unknown      Class: AudioEndpoint        Name: Game (Elgato Virtual Audio)
+  Status: Unknown      Class: USB                  Name: SAMSUNG Mobile USB Composite Device 
+  Status: Unknown      Class: Monitor              Name: Generic Monitor (LG SMARTGAME+)
+  Status: Unknown      Class: Keyboard             Name: HID Keyboard Device
+  Status: Unknown      Class: AudioEndpoint        Name: Recording Mix (Elgato Virtual Audio)
+  Status: Unknown      Class: HIDClass             Name: HID-compliant game controller
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: HIDClass             Name: HID-compliant bar code badge reader
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: WPD                  Name: Samsung USB 2
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: Monitor              Name: Generic Monitor (EK220Q E3)
+  Status: Unknown      Class: DiskDrive            Name: Samsung Type-C USB Device
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: HIDClass             Name: HID-compliant phone
+  Status: Unknown      Class: AudioEndpoint        Name: Wave Mic 3 (Elgato Virtual Audio)
+  Status: Unknown      Class: USB                  Name: USB Composite Device
+  Status: Unknown      Class: AudioEndpoint        Name: Aux 2 (Elgato Virtual Audio)
+  Status: Unknown      Class: HIDClass             Name: HID-compliant consumer control device
+  Status: Unknown      Class: USB                  Name: USB Composite Device
+  Status: Unknown      Class: AudioEndpoint        Name: SFX (Elgato Virtual Audio)
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: Monitor              Name: Generic Monitor (SecondScreen)
+  Status: Unknown      Class:  Name: Intel Tile Device
+  Status: Unknown      Class: VolumeSnapshot       Name: Generic volume shadow copy
+  Status: Unknown      Class: Net                  Name: RAS Async Adapter
+  Status: Unknown      Class: HIDClass             Name: HID-compliant vendor-defined device
+  Status: Unknown      Class: Mouse                Name: HID-compliant mouse
+  Status: Unknown      Class: HIDClass             Name: HID-compliant system controller
+  Status: Unknown      Class: Keyboard             Name: HID Keyboard Device
+  Status: Unknown      Class: WPD                  Name: Bobby's Tab S11 Ultra
+  Status: Unknown      Class: Miracast             Name: Bobby's Tab S11 Ultra
+  Status: Unknown      Class: HIDClass             Name: HID-compliant vendor-defined device
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: Monitor              Name: Generic Monitor (CB242Y)
+  Status: Unknown      Class: MEDIA                Name: UGREEN Camera 2K
+  Status: Unknown      Class: USB                  Name: USB Composite Device
+  Status: Unknown      Class: Camera               Name: UGREEN Camera 2K
+  Status: Unknown      Class: SoftwareComponent    Name: LG Monitor Support Application
+  Status: Unknown      Class: HIDClass             Name: HID-compliant consumer control device
+  Status: Unknown      Class: HIDClass             Name: HID-compliant consumer control device
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: Monitor              Name: Generic Monitor (CB242Y)
+  Status: Unknown      Class: AudioEndpoint        Name: Aux 1 (Elgato Virtual Audio)
+  Status: Unknown      Class: AudioEndpoint        Name: Aux Mix (Elgato Virtual Audio)
+  Status: Unknown      Class: AudioEndpoint        Name: System (Elgato Virtual Audio)
+  Status: Unknown      Class: MEDIA                Name: G435 Wireless Gaming Headset
+  Status: Unknown      Class: HIDClass             Name: HID-compliant vendor-defined device
+
+[TICKET D — NETWORK STATE]
+  VMware Network Adapter VMnet1 : 192.168.195.1/24  GW: 
+  VMware Network Adapter VMnet8 : 192.168.52.1/24  GW: 
+  vEthernet (Default Switch) : 172.25.192.1/20  GW: 
+  Ethernet : 192.168.68.59/22  GW: 192.168.68.1
+  Bluetooth Network Connection : 169.254.185.162/16  GW: 
+  Wi-Fi : 169.254.12.255/16  GW: 
+  Ping 127.0.0.1 : REACHABLE
+  Ping 8.8.8.8 : REACHABLE
+
+[SECURITY LOG — LOCKOUT EVENTS (4625 / 4740, last 24h)]
+  No lockout events in last 24h.
+
+[REQUIRED FILES]
+
+Commit this file (evidence-report.txt) to your GitHub repo under midterm-service-desk/.
