@@ -1,0 +1,38 @@
+Bobby Moeller
+Matt M
+CVNP1606
+11/08/2026
+
+AI Disclaimer: Used AI to draft markdown templates.
+
+In this scenario, I am working at Nexus Support Services. ACME is having its busiest support day of the quarter with four tickets opening simultaneously: a cashier locked out of their POS system, an office manager with a slow PC, a remote worker with a failed audio driver, and a new hire with no network access. My job was to triage the queue by business impact, work each ticket using the correct tools, and document the changes or escalations with full evidence. Interestingly, upon actually investigating the workstation, none of the reported faults were present on the machine.
+
+The first step I took was to read all four ticket descriptions and write down my prioritization order based on business impact and hard deadlines. 
+Then for step 2, I investigated Ticket A by checking Local Users and Groups (lusrmgr.msc), but found the  account didnt exist on the local machine and no accounts were locked. 
+Then for step 3, I opened Task Manager for Ticket B to find the heavy process, but found the CPU and Memory were actually running at perfectly normal levels.
+Then for step 4, I checked Device Manager for Ticket C to fix the driver, but the High Definition Audio Device was functioning perfectly with no yellow warning icons. 
+Then for step 5, I ran ipconfig /all and a ping test in PowerShell for Ticket D, which resulted in 100% success rates, proving the network and routing were fully operational. 
+Then lastly for step 6, I documented my findings in ticket-pack.m and change-note.md.
+
+Portfolio Card: I solved a four-ticket mixed Windows support queue, prioritized by business impact, and investigated each ticket withd evidence applying all production standards from Weeks 1 through 8.
+
+Evidence List: 
+Screenshots: Labeled with what ticket and step they go to (Event Viewer/lusrmgr, Task Manager, Device Manager, PowerShell).
+ticket-pack.md: My queue triage order, ticket closure/escalation notes, and user communications.
+change-note.md: The change note for the driver ticket.
+ai-disclosure.md: My AI usage statement.
+evidence-report.txt: The automated script output confirming all required files are present.
+
+Troubleshooting Narrative:
+
+What went wrong across the queue, or what was the most significant issue you encountered?
+The most significant issue across the queue was the differnece between the user symptoms and the actual state of the local machine. Rather than dealing with a broken system, the primary challenge was investigating and proving a that the workstation was actually healthy without dismissing the users reports.
+
+What evidence did you check first, and why?
+For each ticket, I immediately checked the objective, built in Windows diagnostic tools.
+
+What did you try on each ticket?
+On Ticket A, I searched the Local Users and Groups console to locate the locked account. On Ticket B, I sorted Task Manager by CPU and Memory to locate any resource-heavy processes. On Ticket C, I expanded the audio controllers in Device Manager to look for warning icons or missing drivers. On Ticket D, I ran ipconfig /all and a ping to test the network stack from the loopback address out to the external internet.
+
+What resolved each issue, or what would you try next if you could not resolve it?
+Because no faults were present on the machine, no system changes were applied to resolve the tickets.
